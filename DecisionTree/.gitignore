@@ -1,4 +1,5 @@
 /target/
 
 #Eclipse
+/bin/
 /.settings/
