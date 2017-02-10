@@ -35,6 +35,7 @@ import com.google.common.collect.Lists;
 public class Main {
 
     public static void main(String[] args) throws FileNotFoundException, IOException {
+    	//Test
         List<DataSample> trainingData = readData(true);
         DecisionTree tree = new DecisionTree();
         
